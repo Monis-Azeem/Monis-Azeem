@@ -1,6 +1,5 @@
 **Full Stack Blockchain Developer | 1.2 years at Zoniqx (Menlo Park-based Web3 startup) - built TPaaS platform processing $100M+ in tokenized RWA assets, serving enterprise clients across US, Germany, and Dubai.**
 
----
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -28,20 +27,17 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
----
-### **Projects**
+## **Projects**
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
 - 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat
 
----
-### **Latest Blog Posts**
+## **Latest Blog Posts**
 - [Deep Dive into Merkle Tree Generator: A Guide to Build One from Scratch](https://monisazeem.hashnode.dev/merkle-tree-generator)
 - [Auto-Deploy your Turborepo to AWS using GitHub Workflows](https://monisazeem.hashnode.dev/auto-deploy-your-turborepo-to-aws-using-github-workflows)
 - [eval() function from scratch in JavaScript](https://monisazeem.hashnode.dev/eval-function-from-scratch-in-javascript)
 
----
-### **Connect**
+## **Connect**
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MonisAzeem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monisazeem/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://monisazeem.hashnode.dev)
