@@ -26,6 +26,7 @@
 ## **Projects**
 - 💥 [**Claude Code from Scratch**](https://github.com/Monis-Azeem/claude-code-from-scratch) - Capable of read and write to a file and run bash commands
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
+- 🔖 [**Bluemark**](https://github.com/Monis-Azeem) - Blazingly fast Bookmark app using Next.js Server components and Supabase Realtime, DB and Auth
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
 - 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat
 
