@@ -1,4 +1,4 @@
-**Full Stack Blockchain Developer | 1.2 years at Zoniqx (Menlo Park-based Web3 startup) - built TPaaS platform processing $100M+ in tokenized RWA assets, serving enterprise clients across US, Germany, and Dubai.**
+**Full Stack Blockchain Developer**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
