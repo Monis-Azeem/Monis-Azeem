@@ -25,6 +25,7 @@
 
 ## **Projects**
 - 💥 [**Claude Code from Scratch**](https://github.com/Monis-Azeem/claude-code-from-scratch) - Capable of read and write to a file and run bash commands
+- 💰 [**Web Based Wallet Generator**](https://github.com/Monis-Azeem/web-based-wallet) - Web based wallet generator which generates addresses like Metamask and Phantom
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
 - 🔖 [**Bluemark**](https://github.com/Monis-Azeem/blue-mark) - Blazingly fast Bookmark app using Next.js(SSR) and Supabase Realtime, DB and Auth
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
