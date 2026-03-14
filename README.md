@@ -30,6 +30,7 @@
 - 🔖 [**Bluemark**](https://github.com/Monis-Azeem/blue-mark) - Blazingly fast Bookmark app using Next.js(SSR) and Supabase Realtime, DB and Auth
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
 - 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat
+- ⏳ [**Limiter**](https://github.com/Monis-Azeem/limiter) - A React-Native mobile app to limit scrolling and daily usage on apps like Instagram
 
 ## **Latest Blog Posts**
 - [Deep Dive into Merkle Tree Generator: A Guide to Build One from Scratch](https://monisazeem.hashnode.dev/merkle-tree-generator)
