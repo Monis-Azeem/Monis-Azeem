@@ -24,6 +24,7 @@
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 ## **Projects**
+- 🤖 [**Buddy**](https://buddy.monisazeem.com/) - Voice first AI assistant for macOS - Built in OpenAI Codex Hackathon, Delhi
 - 💥 [**Claude Code from Scratch**](https://github.com/Monis-Azeem/claude-code-from-scratch) - Capable of read and write to a file and run bash commands
 - 💰 [**Web Based Wallet Generator**](https://github.com/Monis-Azeem/web-based-wallet) - Web based wallet generator which generates addresses like Metamask and Phantom
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
