@@ -1,6 +1,6 @@
-**Full Stack Blockchain Developer**
+**tinkering among distributed systems, ai & rwa tokenization**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -21,7 +21,7 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E74C3C?style=flat-square&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) -->
 
 ## **Projects**
 - 🤖 [**Buddy**](https://buddy.monisazeem.com/) - Voice first AI assistant for macOS - Built in OpenAI Codex Hackathon, Delhi
@@ -30,8 +30,9 @@
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
 - 🔖 [**Bluemark**](https://github.com/Monis-Azeem/blue-mark) - Blazingly fast Bookmark app using Next.js(SSR) and Supabase Realtime, DB and Auth
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
-- 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat
-- ⏳ [**Limiter**](https://github.com/Monis-Azeem/limiter) - A React-Native mobile app to limit scrolling and daily usage on apps like Instagram
+- ➕ [**More Projects**](https://monisazeem.notion.site/Projects-Monis-Azeem-36bcb8171115801681d9d45756ab6a40)
+<!-- - 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat -->
+<!-- - ⏳ [**Limiter**](https://github.com/Monis-Azeem/limiter) - A React-Native mobile app to limit scrolling and daily usage on apps like Instagram -->
 
 ## **Latest Blog Posts**
 - [Deep Dive into Merkle Tree Generator: A Guide to Build One from Scratch](https://monisazeem.hashnode.dev/merkle-tree-generator)
