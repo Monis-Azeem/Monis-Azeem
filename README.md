@@ -8,8 +8,8 @@
 - 💰 [**Web Based Wallet Generator**](https://github.com/Monis-Azeem/web-based-wallet) - Web based wallet generator which generates addresses like Metamask and Phantom
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
 - 🔖 [**Bluemark**](https://github.com/Monis-Azeem/blue-mark) - Blazingly fast Bookmark app using Next.js(SSR) and Supabase Realtime, DB and Auth
-- 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat
 - ⏳ [**Limiter**](https://github.com/Monis-Azeem/limiter) - A React-Native mobile app to limit scrolling and daily usage on apps like Instagram
+<!-- - 🌐 [**BrowzerAI**](https://github.com/monis07/browzer-ai) - AI browser assistant as a Chrome extension with side panel chat -->
 <!-- - ➕ [**More Projects**](https://monisazeem.notion.site/Projects-Monis-Azeem-36bcb8171115801681d9d45756ab6a40) -->
 
 ## **Latest Blog Posts**
