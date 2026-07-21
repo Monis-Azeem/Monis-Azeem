@@ -1,4 +1,4 @@
-**tinkering among distributed systems, ai & rwa tokenization**
+**Tinkering among Distributed Systems, AI & RWA Tokenization**
 
 ## **Projects**
 - 🤖 [**Buddy**](https://buddy.monisazeem.com/) - Voice first AI assistant for macOS - Built in OpenAI Codex Hackathon, Delhi
