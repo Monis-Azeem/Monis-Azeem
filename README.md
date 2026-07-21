@@ -3,7 +3,7 @@
 ## **Projects**
 - 🤖 [**Buddy**](https://buddy.monisazeem.com/) - Voice first AI assistant for macOS - Built in OpenAI Codex Hackathon, Delhi
 - 💥 [**Claude Code from Scratch**](https://github.com/Monis-Azeem/claude-code-from-scratch) - Capable of read and write to a file and run bash commands
-- [**Votin**](https://github.com/Monis-Azeem/voting-system-mlh-midnight-hackathon) - Anonymous voting DApp on [Midnight Network](https://midnight.network/) with zero-knowledge proofs
+- 🗳️ [**Votin**](https://github.com/Monis-Azeem/voting-system-mlh-midnight-hackathon) - Anonymous voting DApp on [Midnight Network](https://midnight.network/) with zero-knowledge proofs
 - 🌳 [**Merkle Tree Generator**](https://github.com/Monis-Azeem/merkle-tree-generator) - Generate Merkle trees from Ethereum addresses with proof generation and verification
 - 💰 [**Web Based Wallet Generator**](https://github.com/Monis-Azeem/web-based-wallet) - Web based wallet generator which generates addresses like Metamask and Phantom
 - 📄 [**DocumentAI**](https://github.com/Monis-Azeem/DocumentAI) - WhatsApp chatbot to chat with your documents using Twilio and Gemini
